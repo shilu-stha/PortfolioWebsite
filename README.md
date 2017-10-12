@@ -15,4 +15,6 @@ A project which demonstrate simple usages of HTML and CSS to build a rich layout
 * **js** Will contain all the javascript files used in this app.
 
 ## Screenshots
-![Website](/screenshots/nexusphone.png?raw=true)
+![Nexus](/screenshots/nexusphone.png?raw=true)
+
+![iPad](/screenshots/ipad.png?raw=true)
